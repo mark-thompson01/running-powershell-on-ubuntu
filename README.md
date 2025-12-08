@@ -1,5 +1,3 @@
-You can paste this directly into your repo.
-
 🚀 Running PowerShell on Ubuntu
 Cross-Platform System Monitoring · PowerShell 7 · Linux Administration
 
