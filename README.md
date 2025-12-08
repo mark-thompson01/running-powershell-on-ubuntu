@@ -55,7 +55,7 @@ This project is part of my System & Process Management learning path and demonst
 ---
 
 
-## 📘 What I’ve Learned
+## 📘 What I Learned
 
 - How to put good use to a retired Windows 10 machine
 - How to install PowerShell on Linux Ubuntu
