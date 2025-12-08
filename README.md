@@ -3,7 +3,7 @@ Cross-Platform System Monitoring · PowerShell 7 · Linux Administration
 
 This project demonstrates how to install, configure, and run PowerShell 7 on Ubuntu Linux, then build and execute a fully cross-platform system monitoring script capable of running on Linux and Windows using a shared codebase.
 
-The walkthrough includes:
+## 📖 The walkthrough includes:
 
 Installing PowerShell on Ubuntu
 
