@@ -61,7 +61,7 @@ This project is part of my System & Process Management learning path and demonst
 - How to install PowerShell on Linux Ubuntu
 - How to run PowerShell cmdlets in a Linux environment
 - How to get started with PowerShell scripting in a Linux environment
-- How to build and run cross-platform script
+- How to build and run cross-platform PowerShell scripts
 
 ---
 
