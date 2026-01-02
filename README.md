@@ -19,6 +19,12 @@ This project is part of my System & Process Management learning path and demonst
 
 ---
 
+🖥️ **Live Project Webpage:**  
+👉 [Running PowerShell on Ubuntu](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Running%20PowerShell%20in%20Ubuntu/)
+
+
+---
+
 ## 📚 Project Index
 
 - 🔹 [Download and install PowerShell on Ubuntu](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Running%20PowerShell%20in%20Ubuntu/Setup/)
